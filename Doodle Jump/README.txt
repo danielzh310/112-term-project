@@ -1,7 +1,6 @@
-Project Name: ULTRA TP Doodle Jump
+Project Name: Doodle Jump
 
-Description: A given base code from 112 TA's for the Doodle Jump game,
-a verticl scrolling platform jumping game with a little doodle
+Description: Doodle Jump game, a verticle scrolling platform jumping game with a little doodle
 
 How To Run: Unzip the files, Open "doodleJumpEdited" and run the code
  
